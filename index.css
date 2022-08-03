@@ -11,7 +11,7 @@ body {
 .greentext{
     color: #4ADF86;
 }
-.genbutton{
+.genbutton {
     background: #4ADF86;
     border: none;
     border-radius: 10px;
@@ -21,6 +21,7 @@ body {
     margin-top: 50px;
     font-weight: bolder;
     box-shadow: 1px 1px 50px #4ADF86;
+    text-shadow: 1px 1px 10px black;
 }
 
 #hint{
@@ -28,7 +29,7 @@ body {
     
 }
 .password{
-    background: #273549;
+    background: #1F2937;
     border-radius: 6px;
     padding: 5px;
     margin: 15px auto;
